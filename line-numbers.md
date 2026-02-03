@@ -8,7 +8,7 @@
 #### 8
 #### 9 Github is awesome
 #### 10
-#### 11 chocolate is good
+#### 11 vanilla is good
 #### 12
 #### 13
 #### 14
